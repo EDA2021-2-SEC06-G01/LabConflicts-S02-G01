@@ -1,8 +1,8 @@
 #ISIS1225 - Estructura de un proyecto
 
-Estudiante 1: Alejandro Guerrero
+Estudiante 1: Alejandro Guerrero - a.guerrerop - 201912747
 
-Estudiante 2: Nicolas Palacios
+Estudiante 2: Nicolas Palacios - n.palacios2 - 202021759
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
